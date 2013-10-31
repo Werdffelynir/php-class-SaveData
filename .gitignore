@@ -1,18 +1,7 @@
 # Ignore files
 
-*data/
+data/*
 *.idea/
-*nbproject/
-*.sln
-*basedump.savedata
-
-
-
-
-
-
-
-
-
-
-
+*nbproject/*
+basedump.savedata
+!empty
